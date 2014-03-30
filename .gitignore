@@ -1,0 +1,4 @@
+# Ignore some temp files
+*.swp
+*.[oa]
+

@@ -11,7 +11,7 @@ int main(int argc, char* argv[])
 	// Create window
 	win = gtk_window_new(GTK_WINDOW_TOPLEVEL);
 
-	//gtk_windget_show(win);
+	gtk_windget_show(win);
 	
 	// Main loop
 	gtk_main();
